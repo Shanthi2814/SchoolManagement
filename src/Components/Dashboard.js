@@ -6,7 +6,7 @@ function Dashboard() {
     <div className='container-fluid'>
       <div className="col-lg-12 col-sm-12 d-flux text-center table-responsive d-flex">
 
-      <h1 style={{padding:450}}>School Management Sysytem</h1>
+      <h1 style={{padding:250}}>School Management Sysytem</h1>
 
       </div>
       
