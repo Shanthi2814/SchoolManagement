@@ -1,0 +1,24 @@
+
+*{
+    margin-top: 10px;
+    padding: 0;
+}
+form{
+    background: linear-gradient(45deg,rgb(230, 228, 228),rgb(245, 248, 245),rgb(229, 221, 221));
+    border-radius: 20px;
+    padding: 30px 50px;
+    width: 12cm;
+    font-weight:bolder;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+input{
+    padding: 4px;
+    margin: 5px;
+    border-radius: 10px;
+}

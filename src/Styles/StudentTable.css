@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+table{
+    border: 2px solid black;
+    width: 800px;
+    height: 200px;   
+    padding-top: 50px;
+}
+th {
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(151, 226, 211);
+}
+td {
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+
+    
+}
+ 
